@@ -50,7 +50,5 @@ def naming_system
         }
       }
    }
-   world = {
-     PORTION_1
-   }
+   world << PORTION_1
 end
